@@ -1,0 +1,39 @@
+[
+  {
+    "question": "Vad är huvudstaden i Sverige?",
+    "options": ["Stockholm", "Göteborg", "Malmö", "Uppsala"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Vilken gren av kristendomen är den ortodoxa kyrkan en del av?",
+    "options": ["Protestantism", "Katolicism", "Ortodox kristendom", "Anglikanism"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "I vilket århundrade delades den kristna kyrkan i östlig och västlig del?",
+    "options": ["500-talet", "1000-talet", "1600-talet", "400-talet"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Vilket land är inte känt för att ha en stor ortodox kristen befolkning?",
+    "options": ["Grekland", "Ryssland", "Serbien", "Italien"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Vilken högtid firas i den ortodoxa kyrkan men inte i den västliga kristna kyrkan?",
+    "options": ["Påsk", "Jul", "Epifani", "Teofani"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Vad är ikoner i den ortodoxa kyrkan?",
+    "options": [
+      "Religiösa sånger",
+      "Heliga skrifter",
+      "Religiösa målningar",
+      "Kyrkans ledare"
+    ],
+    "correctAnswer": 2
+  }
+]
+
+

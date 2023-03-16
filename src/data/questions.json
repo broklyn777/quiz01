@@ -11,7 +11,7 @@
   },
   {
     "question": "I vilket århundrade delades den kristna kyrkan i östlig och västlig del?",
-    "options": ["5:e århundradet", "11:e århundradet", "16:e århundradet", "1:a århundradet"],
+    "options": ["500-talet", "1000-talet", "1600-talet", "400-talet"],
     "correctAnswer": 1
   },
   {
@@ -33,7 +33,108 @@
       "Kyrkans ledare"
     ],
     "correctAnswer": 2
-  }
+  },
+  {
+  "question": "Vilket koncilium fastställde den Nicaenska trosbekännelsen?",
+  "options": [
+    "Första konciliet i Nicaea",
+    "Första konciliet i Konstantinopel",
+    "Konciliet i Chalcedon",
+    "Andra konciliet i Nicaea"
+  ],
+  "correctAnswer": 0
+},
+{
+  "question": "Vad var huvudsyftet med konciliet i Chalcedon?",
+  "options": [
+    "Att förtydliga Kristi gudomliga och mänskliga natur",
+    "Att bekämpa arianismen",
+    "Att fastställa ikoners status inom kyrkan",
+    "Att ena den västra och östra kyrkan"
+  ],
+  "correctAnswer": 0
+},
+{
+  "question": "Vem var den ledande kyrkofadern som försvarade treenighetsläran mot arianismen under första konciliet i Nicaea?",
+  "options": [
+    "Basileios den store",
+    "Athanasius av Alexandria",
+    "Gregorios av Nazianzos",
+    "Johannes Chrysostomos"
+  ],
+  "correctAnswer": 1
+},
+{
+  "question": "Vad betyder det grekiska ordet 'hesychasm' inom ortodox kristendom?",
+  "options": [
+    "En typ av ikonmåleri",
+    "En asketisk bönemetod",
+    "En teologisk skola",
+    "En samling av kyrkohymner"
+  ],
+  "correctAnswer": 1
+},
+{
+  "question": "Vilket koncilium fastställde återinförandet av ikoner som en legitim del av kristen dyrkan?",
+  "options": [
+    "Första konciliet i Konstantinopel",
+    "Andra konciliet i Nicaea",
+    "Konciliet i Chalcedon",
+    "Konciliet i Ephesus"
+  ],
+  "correctAnswer": 1
+},
+{
+  "question": "Vilken kyrkofader förespråkade den apofatiska teologin, som betonar att Gud inte kan beskrivas positivt utan endast genom negation?",
+  "options": [
+    "Pseudo-Dionysios Areopagiten",
+    "Johannes Damaskenos",
+    "Maximos Bekännaren",
+    "Isaak Syriern"
+  ],
+  "correctAnswer": 0
+},
+{
+  "question": "Vilket historiskt teologiskt verk skrevs av den ortodoxa munken och mystikern Symeon den nye teologen?",
+  "options": [
+    "Philokalia",
+    "Ladder of Divine Ascent",
+    "Hymns of Divine Love",
+    "On the Divine Images"
+  ],
+  "correctAnswer": 2
+},
+{
+  "question": "Vilken teologisk debatt präglade det fjärde ekumeniska konciliet, som hölls i Chalcedon 451 e.Kr.?",
+  "options": [
+    "Nestorianism mot monofysitism",
+    "Pelagianism mot augustinsk teologi",
+    "Dyofysitism mot monofysitism",
+    "Miafysitism mot monofysitism"
+  ],
+  "correctAnswer": 2
+},
+{
+  "question": "Vilken viktig teologisk och filosofisk skola grundades i Alexandria under 200-talet och spelade en viktig roll i utformningen av kristen teologi?",
+  "options": [
+    "Antiochenska skolan",
+    "Cappadocianska skolan",
+    "Kydoniska skolan",
+    "Alexandrinska skolan"
+  ],
+  "correctAnswer": 3
+},
+{
+  "question": "Vem var den ortodoxa kyrkofadern som skrev om 'De tre stadier av andlig utveckling' och betonade vikten av kärlek som en grund för teologi?",
+  "options": [
+    "Evagrios Pontikos",
+    "Kyrillos av Alexandria",
+    "Gregorios av Nyssa",
+    "Dionysios den store"
+  ],
+  "correctAnswer": 2
+}
+
 ]
 
 

@@ -39,26 +39,15 @@ export const Quiz: React.FC = () => {
 
   if (currentQuestionIndex === questions.length) {
     return (
-             <div
-      className="min-h-screen flex flex-col items-center justify-center"
-      style={{
-        backgroundImage: "url('/rökelse-03.jpg')",
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-      }}
-    >
-        
-      <div className="absolute inset-0 bg-black bg-opacity-75"></div>
-      <div className="bg-gray-100  p-8 rounded-lg z-10">
+      <div className="bg-gray-100  p-8 rounded-lg">
         <h2 className="text-xl  mb-4">Sammanfattning</h2>
         <p>
           Du fick {score} av {questions.length} rätt ({Math.round((score / questions.length) * 100)}%).
         </p>
-        <button className="bg-blue-500 text-white py-2 z-10 px-4 rounded mt-4" onClick={restartQuiz}>
+        <button className="bg-blue-500 text-white py-2 px-4 rounded mt-4" onClick={restartQuiz}>
           Starta om frågesporten
         </button>
       </div>
-          </div>
     );
   }
 
